@@ -1,3 +1,3 @@
 # ApachewithAnsible
 
-An ansible playbook that installs apache web server on the local machine and creates an index.html file that runs on localhost
+An Ansible playbook that automates configuration of creating an Apache web server that runs on local machine and also creates an index.html file that runs on local host. 
